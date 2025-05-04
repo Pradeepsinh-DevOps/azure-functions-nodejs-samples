@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: Pab_WinServer_10
+  VMname: Pab_WinServer_10
 
 steps:
 - script: echo Hello, world!
